@@ -8,7 +8,7 @@ I am a results-driven developer with a solid foundation in **Full-Stack Architec
 
 ### 🛠 Tech Stack & Tools
 
-- **Backend:** Node.js (Express), Python, Go,Java, Rust (Learning)
+- **Backend:** Node.js (Express), Python, Go,Java, Rust
 - **Frontend:** React, JavaScript (ES6+)
 - **Database:** MongoDB, PostgreSQL, Redis,MySql
 - **Security & Ops:** Helmet.js, TDD (Chai/Mocha), Linux/Bash, Docker
